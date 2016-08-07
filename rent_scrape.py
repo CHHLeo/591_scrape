@@ -110,3 +110,5 @@ def rent_neihulu():
                     rent_list[old_length:]))
 
     print "591 neihulu scrape done"
+
+rent_xingshan()
